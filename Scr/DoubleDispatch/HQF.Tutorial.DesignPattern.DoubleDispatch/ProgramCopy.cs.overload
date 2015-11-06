@@ -1,0 +1,49 @@
+﻿using System;
+
+namespace HQF.Tutorial.DesignPattern.DoubleDispatch
+{
+    //internal class Program
+    //{
+    //    public static void Main(string[] args)
+    //    {
+    //        Event evt = new BlueEvent();
+
+    //        new Handler().handle(evt);
+            
+    //        Console.Read();
+    //    }
+    //}
+
+    //public interface Event
+    //{
+    //}
+
+
+    //public class BlueEvent : Event
+    //{
+    //}
+
+
+    //public class RedEvent : Event
+    //{
+    //}
+
+
+    //public class Handler
+    //{
+    //    public void handle(Event eventHandler)
+    //    {
+    //        Console.WriteLine("It is event");
+    //    }
+
+    //    public void handle(RedEvent eventHandler)
+    //    {
+    //        Console.WriteLine("It is RedEvent");
+    //    }
+
+    //    public void handle(BlueEvent eventHandler)
+    //    {
+    //        Console.WriteLine("It is BlueEvent");
+    //    }
+    //}
+}
